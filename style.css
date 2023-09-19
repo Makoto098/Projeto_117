@@ -1,0 +1,18 @@
+body {
+    background-color: lightgray; /* Cor de fundo da página */
+}
+
+#scoreText {
+    font-size: 18px; /* Tamanho da fonte da pontuação */
+    margin-left: 20px; /* Margem à esquerda para a pontuação */
+}
+
+#timeText {
+    font-size: 18px; /* Tamanho da fonte do tempo */
+    float: right; /* Colocar à direita */
+    margin-right: 20px; /* Margem à direita para o tempo */
+}
+
+#drawnSketchText {
+    color: blue; /* Cor de texto para o nome do esboço */
+}
